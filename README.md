@@ -12,3 +12,5 @@ Html страница main.html, в которой с помощью javascript 
 
 ### Preferences
 Предпочтительно использовать Google Chrome или Яндекс.Браузер
+
+<img src ="images/main.png">
